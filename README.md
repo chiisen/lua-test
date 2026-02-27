@@ -1,14 +1,10 @@
-# lua-test
-Lua 語言的測試專案
+# 🌙 lua-test
+Lua 語言的測試專案 🚀
 
-# 說明
-https://hackmd.io/@chiisen/HkKjNKLBA
+# 📖 說明
+這是一個用於測試 Lua 語言功能的專案空間。 ✨
 
-# git commit message
-- 常用描述
-```
-✨ feat: 需求功能描述
-🐛 fix: 修正 bug 的問題描述
-💄 optimize: 最佳化程式碼或功能流程
-🔧 chore: 雜事，例如: 調整設定檔案等等 
-```
+🔗 [HackMD 筆記](https://hackmd.io/@chiisen/HkKjNKLBA)
+
+
+
